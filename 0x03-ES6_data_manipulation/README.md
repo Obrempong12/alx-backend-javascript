@@ -1,4 +1,6 @@
 ### 0x03. ES6 data manipulation
+![image](https://github.com/user-attachments/assets/2789fb58-647f-4c19-86ab-429b4c942e53)
+
 ---
 ## Description
 Learning: 
