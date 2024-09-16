@@ -1,4 +1,5 @@
 # 0x05. NodeJS Basics
+![image](https://github.com/user-attachments/assets/90861c63-0f5f-4fb0-ba74-f1b0f216f505)
 ---
 ## Description
 This project contains tasks for learning the basics of NodeJS.
