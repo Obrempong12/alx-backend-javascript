@@ -1,4 +1,5 @@
 # 0x06. Unittests in JS
+![image](https://github.com/user-attachments/assets/bc9f12af-ce01-42f0-be08-c9f535884736)
 ---
 ## Descriptions
 This project contains tasks for learning to create unittests in NodeJS.
