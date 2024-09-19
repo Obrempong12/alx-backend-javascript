@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/Obrempong12/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/Obrempong12/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
+  "homepage": "https://github.com/Obrempong12/alx-backend-javascript/blob/master/0x06-unittests_in_js/README.md",
   "engines": {
     "node": "16.x",
     "npm": "8.x",
